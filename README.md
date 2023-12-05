@@ -1,9 +1,4 @@
 # Documentation
-
-1. User Guide
-2. Developer Documentation
-
-
 ## User Guide
 Welcome to Wateen's Quiz. In order to have a pleasant experience using my programme, please refer to the following step by step instructions:
 
